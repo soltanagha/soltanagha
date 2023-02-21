@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @soltanagha
-- 👀 I’m interested in Machine Learning and Data processing techniques
-- 🌱 I’m currently learning Music Generation with ML
+- 👀 I’m interested in Java and Cloud deployment techniques
+- 🌱 I’m currently learning Cloud deployment
 - 📫 How to reach me
      * LinkedIn: https://www.linkedin.com/in/soltanagha-huseynov/
 
