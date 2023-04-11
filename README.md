@@ -17,7 +17,8 @@ Skills
 ### Currently Seeking
 
 I am currently seeking a Java Developer role where I can leverage my skills and experience to contribute to a dynamic team and help build cutting-edge applications.
-Contact Me
+
+### Contact Me
 
 If you would like to connect with me or learn more about my experience, feel free to reach out via email or LinkedIn.
 
