@@ -6,10 +6,12 @@ I am a Java Developer with over 5 years of experience in software development. I
 Skills
 
 *    Java Core 8+
-*    Hibernate
+*    Spring Data
 *    Spring Boot
 *    Spring AOP
 *    Spring Security
+*    Spring Cloud
+*    Microservices
 *    Angular
 *    PostgreSQL
 *    MongoDB
