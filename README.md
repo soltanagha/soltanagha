@@ -2,16 +2,20 @@
 
 ## About Me
 
-I am a Java Developer with over 5 years of experience in software development. I have expertise in Java Core 8+, Maven, Hibernate, Spring MVC, Spring AOP, Spring Security, Spring REST, and Spring Boot. I am passionate about creating clean, efficient, and maintainable code that meets business requirements and exceeds expectations.
-Skills
+With years of experience in Java development, my expertise spans from core Java technologies to modern frameworks like Spring Boot and Hibernate, as well as Agile methodologies. I've focused on code compliance, documentation, and performance assessments to ensure application reliability and uptime. I've stayed current with industry trends, integrating advanced practices for enhanced functionality.
+
+I've honed my technical skills by creating secure and scalable applications, leveraging microservices for modularity. My commitment to rigorous testing has resulted in up to 95% code coverage through automated Unit Tests, and my optimization efforts have boosted application performance by as much as 30%. I'm proficient in debugging and problem-solving, and have extensive experience with relational databases.
+
+On the backend, I've developed robust Restful web services using Java EE and Spring MVC, optimizing data management and retrieval with Spring Data JPA and Hibernate. On the frontend, my skill set includes Angular. My DevOps experience is anchored in AWS EC2, where I've implemented continuous integration to speed up deployment processes. I've worked with various database technologies, including MS SQL Server, MongoDB, and PostgreSQL, and have hands-on experience with message queuing through Apache Kafka. My toolkit includes Maven, Gradle, and Docker. I excel in Agile and Scrum environments, consistently delivering high-quality software solutions.
 
 *    Java Core 8+
 *    Spring Data
 *    Spring Boot
-*    Spring AOP
-*    Spring Security
+*    Spring Security 6
 *    Spring Cloud
 *    Microservices
+*    Apache Kafka
+*    Eureka
 *    Angular
 *    PostgreSQL
 *    MongoDB
